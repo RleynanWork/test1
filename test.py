@@ -24,6 +24,8 @@ smile Pronouns: ....."""
 @
 @
 @@"
+
+show
 "
   smile Pronouns: ....."""№
     
